@@ -1,0 +1,2 @@
+# LightweightUNet_Transformer_Segmentasi_Tumor_Otak
+Project riset magang 
